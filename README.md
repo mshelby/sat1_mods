@@ -9,13 +9,13 @@ The OEM enclosure consists of 5 pieces or parts:
 
 1.The back half (back wall & back sidewalls) of the enclosure - This piece was modified a good bit.
     
-    1. Two cutouts were placed in the topside of the back piece. These holes are just big enough for the cable to pass through the unit while keeping the 90 degree head of each cable from falling through. Each top port has a raised icon indicating whether the cable is for the "power" port or the "Xmos" port. A suggestion was received to plug the top holes with a rubber grommet or with glue to keep ANY sound from escaping the speaker enclosure. Maybe this is a good idea. Not certain it is necessary, as the holes made in the top are already pretty small, with not a lot of room given around the cable head once its in position, but you may want to seal it.
-    
-    2. Two notches were cut into the backside wall to allow the cable to travel down the inside back wall of the unit.
-    
-    3. I placed a block at the base of the unit containing holes for each of the two exit ports. Here, only the "power" exit port is marked. The exit ports are stacked vertically, Power exit on bottom, Xmos plug-in on top.
-    
-    4. On the back of the unit, the plug block protrudes just slightly, with raised icons indicating what cord gets plugged into each slot. I believe this gives a nice "elegant" look to the enclosure!
+   Two cutouts were placed in the topside of the back piece. These holes are just big enough for the cable to pass through the unit while keeping the 90 degree head of each cable from falling through. Each top port has a raised icon indicating whether the cable is for the "power" port or the "Xmos" port. A suggestion was received to plug the top holes with a rubber grommet or with glue to keep ANY sound from escaping the speaker enclosure. Maybe this is a good idea. Not certain it is necessary, as the holes made in the top are already pretty small, with not a lot of room given around the cable head once its in position, but you may want to seal it.
+      
+   Two notches were cut into the backside wall to allow the cable to travel down the inside back wall of the unit.
+      
+   I placed a block at the base of the unit containing holes for each of the two exit ports. Here, only the "power" exit port is marked. The exit ports are stacked vertically, Power exit on bottom, Xmos plug-in on top.
+      
+   On the back of the unit, the plug block protrudes just slightly, with raised icons indicating what cord gets plugged into each slot. I believe this gives a nice "elegant" look to the enclosure!
 
 NOTE: The exit ports at the base are purposely designed to be VERY tight around the female end of the chord! Each chord requires some use of muscle to really wedge it into it's exit port, but IT WILL FIT if you buy the chords I used, I promise! Just be patient and work the chord into the port. Maybe even soften the female end of the chord with a hot hair dryer, if necessary. Trust me, it will go! Then, using pressure, push the chord through until it is flush with the outer wall.
 

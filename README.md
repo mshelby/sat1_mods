@@ -11,8 +11,7 @@ The OEM enclosure consists of 5 pieces or parts:
     3. I placed a block at the base of the unit containing holes for each of the two exit ports. Here, only the "power" exit port is marked. The exit ports are stacked vertically, Power exit on bottom, Xmos plug-in on top.
     4. On the back of the unit, the plug block protrudes just slightly, with raised icons indicating what cord gets plugged into each slot. I believe this gives a nice "elegant" look to the enclosure!
 
-    ** NOTE **
-    The exit ports at the base are purposely designed to be VERY tight around the female end of the chord! Each chord requires some use of muscle to really wedge it into it's exit port, but IT WILL FIT if you buy the chords I used, I promise! Just be patient and work the chord into the port. Maybe even soften the female end of the chord with a hot hair dryer, if necessary. Trust me, it will go! Then, using pressure, push the chord through until it is flush with the outer wall.
+NOTE: The exit ports at the base are purposely designed to be VERY tight around the female end of the chord! Each chord requires some use of muscle to really wedge it into it's exit port, but IT WILL FIT if you buy the chords I used, I promise! Just be patient and work the chord into the port. Maybe even soften the female end of the chord with a hot hair dryer, if necessary. Trust me, it will go! Then, using pressure, push the chord through until it is flush with the outer wall.
 
 2.The front half (front wall & front sidewalls) - This piece is unchanged from the OEM design.
 

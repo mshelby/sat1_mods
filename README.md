@@ -1,7 +1,7 @@
 # sat1_mods
 My modifications to the Satellite One development board &amp; ecosystem, produced by FutureProofHomes.net. All original work is theirs. I'm just keeping track of my own modifications here, and making them available to anyone who wants them.
 
-The .3mf files given here alter the OEM Enclosure to allow for the use of two 8" USB-C extension cables to travel down through the top of the unit, along the inside back wall of the unit and exiting at the base of the unit, instead of at the top, as originally designed. This modification is done purely for reasons of aesthetics! It doesn't improve the function of the device at all.
+The .3mf files given here alter the OEM Enclosure to allow for the use of two 8" USB-C extension cables to travel down through the top of the unit, along the inside back wall of the unit and exiting at the base of the unit, instead of at the top, as originally designed. This modification is done purely for reasons of aesthetics! It doesn't improve the function of the device at all. These .3mf files were edited and saved using the "Orca Slicer" program. before you print with them, remember to change the profile of the printer to your own printer instead of the "Creality Ender 3 v3 SE" that I used to print them!
 
 The OEM enclosure consists of 5 pieces or parts:
 

@@ -21,16 +21,16 @@ NOTE: The exit ports at the base are purposely designed to be VERY tight around 
 
 
 
-2.The front half (front wall & front sidewalls) - This piece is unchanged from the OEM design.
+2. The front half (front wall & front sidewalls) - This piece is unchanged from the OEM design.
 
 
-3.The top piece - This piece was modified to allow room under the top, or lid, for the two usb-c 90 degree cable heads to plug into the power and XMOS port of the Satelitte 1 HAT. Also, the USB-C exit hole in the sidewall was roughly plugged. IF ANYONE KNOWS HOW TO REMOVE THE EXIT HOLE OR PLUG IT ENTIRELY, PLEASE CONTRIBUTE HERE! 
+3. The top piece - This piece was modified to allow room under the top, or lid, for the two usb-c 90 degree cable heads to plug into the power and XMOS port of the Satelitte 1 HAT. Also, the USB-C exit hole in the sidewall was roughly plugged. IF ANYONE KNOWS HOW TO REMOVE THE EXIT HOLE OR PLUG IT ENTIRELY, PLEASE CONTRIBUTE HERE! 
 
 
-4.The screw_guide - This piece is unchanged from the OEM design.
+4. The screw_guide - This piece is unchanged from the OEM design.
 
 
-5.The LED diffuser ring - This piece is unchanged from the OEM design.
+5. The LED diffuser ring - This piece is unchanged from the OEM design.
 
 
 Finally, the 8" USB-C cables I bought were purchased here: https://www.amazon.com/dp/B0CTDNBZ5S

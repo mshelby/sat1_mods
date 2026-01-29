@@ -10,12 +10,17 @@ The OEM enclosure consists of 5 pieces or parts:
 1. The back half (back wall & back sidewalls) of the enclosure - This piece was modified a good bit.
     
   - Two cutouts were placed in the topside of the back piece. These holes are just big enough for the cable to pass through the unit while keeping the 90 degree head of each cable from falling through. Each top port has a raised icon indicating whether the cable is for the "power" port or the "Xmos" port. A suggestion was received to plug the top holes with a rubber grommet or with glue to keep ANY sound from escaping the speaker enclosure. Maybe this is a good idea. Not certain it is necessary, as the holes made in the top are already pretty small, with not a lot of room given around the cable head once its in position, but you may want to seal it.
+  - ![IMG_20260127_175040549](https://github.com/user-attachments/assets/c19bf59f-0548-4d92-84e8-103aaa68b6e9)
+    ![IMG_20260128_085054245](https://github.com/user-attachments/assets/fc36280a-058c-4c71-b54d-7bfc3c1710e2)
+
       
   - Two notches were cut into the backside wall to allow the cable to travel down the inside back wall of the unit.
-      
+
   - I placed a block at the base of the unit containing holes for each of the two exit ports. Here, only the "power" exit port is marked. The exit ports are stacked vertically, Power exit on bottom, Xmos plug-in on top.
+  - ![IMG_20260127_175101547](https://github.com/user-attachments/assets/821c4c10-96b9-4956-8d3e-0e59581e53a9)
       
   - On the back of the unit, the plug block protrudes just slightly, with raised icons indicating what cord gets plugged into each slot. I believe this gives a nice "elegant" look to the enclosure!
+    ![IMG_20260127_190719658](https://github.com/user-attachments/assets/dd3d058e-4791-4620-86e1-8af84ff12fd3)
 
 NOTE: The exit ports at the base are purposely designed to be VERY tight around the female end of the chord! Each chord requires some use of muscle to really wedge it into it's exit port, but IT WILL FIT if you buy the chords I used, I promise! Just be patient and work the chord into the port. Maybe even soften the female end of the chord with a hot hair dryer, if necessary. Trust me, it will go! Then, using pressure, push the chord through until it is flush with the outer wall.
 

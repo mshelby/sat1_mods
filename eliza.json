@@ -3,7 +3,7 @@
   "wake_word": "eliza",
   "author": "Mark Shelby",
   "website": "",
-  "model": "eliza.tflite",
+  "model": "https://github.com/mshelby/sat1_mods/eliza.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
